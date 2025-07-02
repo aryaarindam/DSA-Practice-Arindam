@@ -17,6 +17,9 @@ B = 2
 
 */
 
+
+//Using Selection Sort for redcing no of swaps.
+
 public class Solution {
     // DO NOT MODIFY THE LIST. IT IS READ ONLY
     public int kthsmallest(final List<Integer> A, int B) {
